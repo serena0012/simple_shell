@@ -15,8 +15,8 @@
 * [License](#license)
 ## Description
 i
-This **shell** is intentionally minimalistic, was made in order to practice the basics of C learning, yet includes the basic functionality of a traditional Unix-like command line user interface.
-In other words, simple_shell is a program that reads commands provided, check if exists and executes
+This **shell** is intentionally minimalistic, was made in order to practice the basics of C learning, yet includes the basics functionality of a traditional Unix-like command line user interface.
+In other words, simple_shell is a program that reads commands provided, check ifexists and executes
 
 **Interactive mode**
 
