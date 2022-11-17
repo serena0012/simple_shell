@@ -18,6 +18,7 @@ i
 This **shell** is intentionally minimalistic, was made in order to practice the basics of C learning, yet includes the basics functionality of a traditional Unix-like command line user interface.
 In other words, simple_shell is a program that reads commands provided, check ifexists and executes
 
+and.
 **Interactive mode**
 
     test@ubuntu:~/simple_shell$ ./hsh
