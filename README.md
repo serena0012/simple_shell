@@ -45,7 +45,7 @@ and.
 * [_realloc.c](_realloc.c) - function that reallocates a used memory block
 * [man_1_simple_shell](man_1_simple_shell) -  Shell Man page
 
-## Requirements
+## Requirements: 
 
 simple_shell is designed to run in the `Ubuntu 20.04 LTS` linux environment and to be compiled using the GNU compiler collection v. `gcc 9.4` with flags`-Wall, -Werror, -Wextra, and -pedantic.`
 
