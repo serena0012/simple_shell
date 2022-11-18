@@ -92,6 +92,7 @@ simple_shell is designed to run in the `Ubuntu 20.04 LTS` linux environment and 
 ## Usage
 
 The simple_shell is designed to execute commands in a similar manner to sh, however with more limited functionality. The development of this shell is ongoing. The below features will be checked as they become available (see man page for complete information on usage):
+
 ### Features
 - [x] uses the PATH
 - [x] implements builtins
