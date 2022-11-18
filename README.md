@@ -1,7 +1,6 @@
 # Alx Holberton Project: simple_shell
 
 
-
 ## Table of Contents
 * [Description](#description)
 * [Flowchart](#flowchart)
