@@ -75,7 +75,6 @@ simple_shell is designed to run in the `Ubuntu 20.04 LTS` linux environment and 
 * `lstat` (__ lxstat) (man 2 lstat)
 * `fstat` (__ fxstat) (man 2 fstat)
 * `strtok` (man 3 strtok)
-*'strok' (man 2 fslat;)
 * `wait` (man 2 wait)
 * `waitpid` (man 2 waitpid)
 * `wait3` (man 2 wait3)
